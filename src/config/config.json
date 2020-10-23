@@ -1,0 +1,16 @@
+{
+    "development": {
+        "username": "postgres",
+        "password": "!Q@W#E$R",
+        "database": "InternDB",
+        "host": "172.30.1.22",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "postgres",
+        "password": "!Q@W#E$R",
+        "database": "InternDB",
+        "host": "172.30.1.22",
+        "dialect": "postgres"
+    }
+}
